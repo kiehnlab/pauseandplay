@@ -7,6 +7,14 @@ Source code for the upcoming Nature Neuroscience paper entitled "Pedunculopontin
 
 **Control Grooming behaviour**
 
-![](media/control.gif)
+![](media/grooming_control.gif)
+
+**Chr2 Rearing behaviour**
+
+![](media/rearing.gif)
+
+**Control Rearing behaviour**
+
+![](media/rearing_control.gif)
 
 
