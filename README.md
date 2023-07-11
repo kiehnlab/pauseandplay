@@ -1,5 +1,5 @@
 # Pause-And-Play
-Source code for the upcoming Nature Neuroscience paper entitled "Pedunculopontine neurons for global motor arrest", Goñi-Erro et al. 2023
+Source code for the upcoming Nature Neuroscience paper entitled "Pedunculopontine Chx10+ neurons control global motor arrest in mice", [Goñi-Erro et al. 2023](https://doi.org/10.1038/s41593-023-01396-3)
 
 **Chr2 Grooming behaviour**
 
